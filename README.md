@@ -6,7 +6,7 @@ The objective of this project is to perform exploratory data analysis (EDA) on a
 
 ## Problem Statement
 
-As a junior data analyst, the task is to explore a retail dataset and answer analytical questions using different types of visualizations. Each visualization is created using the most suitable library and includes a brief observation to simulate a real-world EDA workflow.
+The task is to explore a retail dataset and answer analytical questions using different types of visualizations. Each visualization is created using the most suitable library and includes a brief observation to simulate a real-world EDA workflow.
 
 ## 🛠 Tools & Technologies Used
 
